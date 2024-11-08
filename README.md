@@ -1,6 +1,13 @@
 # Hyperlane-Bridge
 Hyperlane, geçtiğimiz günlerde dev odaklı bir airdrop yapacağından bahsetti. User tarafı da uzun süredir şişmekteyken bu tarafta birkaç basit işlem yapalım.
 
+VPS'e ihtiyacınız yok, Github Codespaces üzerinden ücretsiz yapabilirsiniz: https://github.com/codespaces 
+
+# Gereksinimler: 
+Base Ağında 0.0025 $ETH, Zora ağında 0.002 $ETH 
+İşlemler için yaklaşık 1-2$ harcayacak sonra çekebilirsiniz.
+Köprülemek için: $BRETT token. Uniswap üzerinden istediğiniz kadar alabilirsiniz.
+
 ## # Updates
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
@@ -77,6 +84,8 @@ yarn hyperlane warp deploy
 > Adresinizi relayer olarak tanımladınız. Köprü için bize biraz token lazım.
 > Base <> Zora arasında köprüleyebileceğiniz $BRETT tokenı var. Uniswap üzerinden alabilirsiniz.
 
-> Sonrasında https://hyperlane.superbridge.app/ adresine gidiyoruz. Normalde Zora Ağı gözükmeyecektir, nasıl ekleyeceğinizi videoda anlattım, oradan devam edebilirsiniz.
+> https://hyperlane.superbridge.app/ adresine gidiyoruz. Normalde Zora Ağı gözükmeyecektir, aşağıdaki resimde "tokens:" ile başlayan kısmı sonuna kadar kopyalayın, superbridge sitesine gidin ve ayarları açın, "Customize" seçeneğine tıklayıp yapıştırın ve çıkın, Zora ağı eklendi. Brett tokeni seçip köprüleyin.
+> ![Uploading Ekran Resmi 2024-11-08 14.40.52.png…]()
+
 
 > Takıldığınız bir yer olursa: ▪️ X : https://x.com/256_tr ▪️ X : https://x.com/256__en
