@@ -84,9 +84,9 @@ yarn hyperlane warp deploy
 
 # Cüzdanda yeterli bakiye varsa 3 kere enterlıyoruz. Ardından kendisi birkaç tx gönderecek, bekliyoruz.
 # Görseldeki kısmı  kopyalıyoruz.
-<img width="569" alt="Ekran Resmi 2024-11-08 15 02 58" src="https://github.com/user-attachments/assets/058f4ceb-eacb-41fa-aeb8-6a274e4237e9">
-
 ```
+![Tokens](https://github.com/user-attachments/assets/62c86eb2-cd99-4392-af69-98cabaaa82cf)
+
 
 ## # Bridge
 > Adresinizi relayer olarak tanımladınız. Köprü için bize biraz token lazım.
