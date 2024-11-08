@@ -4,7 +4,7 @@ Hyperlane, geçtiğimiz günlerde dev odaklı bir airdrop yapacağından bahsett
 VPS'e ihtiyacınız yok, Github Codespaces üzerinden ücretsiz yapabilirsiniz: https://github.com/codespaces 
 
 # Gereksinimler: 
-Base Ağında 0.0025 $ETH, Zora ağında 0.002 $ETH 
+Base Ağında 0.0025 $ETH, Zora ağında 0.002 ETH 
 İşlemler için yaklaşık 1-2$ harcayacak sonra çekebilirsiniz.
 Köprülemek için: $BRETT token. Uniswap üzerinden istediğiniz kadar alabilirsiniz.
 
