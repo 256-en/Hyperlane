@@ -83,10 +83,28 @@ EOF
 yarn hyperlane warp deploy
 
 # Cüzdanda yeterli bakiye varsa 3 kere enterlıyoruz. Ardından kendisi birkaç tx gönderecek, bekliyoruz.
-# Görseldeki kısmı  kopyalıyoruz.
+# Aşağıdaki yazıyı  kopyalıyoruz.
 ```
-![Tokens](https://github.com/user-attachments/assets/62c86eb2-cd99-4392-af69-98cabaaa82cf)
-
+```console
+tokens:
+      - chainName: base
+        standard: EvmHypCollateral
+        decimals: 18
+        symbol: BRETT
+        name: Brett
+        addressOrDenom: "0x538A34E1066cEf2C92472c267af673341c2791E5"
+        collateralAddressOrDenom: "0x532f27101965dd16442e59d40670faf5ebb142e4"
+        connections:
+          - token: ethereum|zoramainnet|0xc264bBd7d3F1aE35215b2A128E0D5e7e702e7A50
+      - chainName: zoramainnet
+        standard: EvmHypSynthetic
+        decimals: 18
+        symbol: BRETT
+        name: Brett
+        addressOrDenom: "0xc264bBd7d3F1aE35215b2A128E0D5e7e702e7A50"
+        connections:
+          - token: ethereum|base|0x538A34E1066cEf2C92472c267af673341c2791E5
+```
 
 ## # Bridge
 > Adresinizi relayer olarak tanımladınız. Köprü için bize biraz token lazım.
