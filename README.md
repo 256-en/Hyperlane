@@ -1,4 +1,4 @@
-# Hyperlane-Bridge
+# Hyperlane Bridge
 Hyperlane, geçtiğimiz günlerde dev odaklı bir airdrop yapacağından bahsetti. User tarafı da uzun süredir şişmekteyken bu tarafta birkaç basit işlem yapalım.
 
 VPS'e ihtiyacınız yok, Github Codespaces üzerinden ücretsiz yapabilirsiniz: https://github.com/codespaces 
