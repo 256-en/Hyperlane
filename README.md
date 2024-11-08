@@ -85,7 +85,6 @@ yarn hyperlane warp deploy
 > Base <> Zora arasında köprüleyebileceğiniz $BRETT tokenı var. Uniswap üzerinden alabilirsiniz.
 
 > https://hyperlane.superbridge.app/ adresine gidiyoruz. Normalde Zora Ağı gözükmeyecektir, aşağıdaki resimde "tokens:" ile başlayan kısmı sonuna kadar kopyalayın, superbridge sitesine gidin ve ayarları açın, "Customize" seçeneğine tıklayıp yapıştırın ve çıkın, Zora ağı eklendi. Brett tokeni seçip köprüleyin.
-> ![Uploading Ekran Resmi 2024-11-08 14.40.52.png…]()
-
+<img width="1308" alt="Ekran Resmi 2024-11-08 14 46 57" src="https://github.com/user-attachments/assets/9b14cb72-1441-433e-9744-1341950ec802">
 
 > Takıldığınız bir yer olursa: ▪️ X : https://x.com/256_tr ▪️ X : https://x.com/256__en
