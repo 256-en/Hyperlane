@@ -84,8 +84,7 @@ yarn hyperlane warp deploy
 
 # Cüzdanda yeterli bakiye varsa 3 kere enterlıyoruz. Ardından kendisi birkaç tx gönderecek, bekliyoruz.
 # Görseldeki yeri  kopyalıyoruz.
-<img width="638" alt="Ekran Resmi 2024-11-08 14 59 40" src="https://github.com/user-attachments/assets/6b1ccd17-e4a6-438d-8149-cb11344b646c">
-
+<img width="598" alt="Ekran Resmi 2024-11-08 15 02 05" src="https://github.com/user-attachments/assets/4ceaad57-0c8c-4a8b-9367-6677527eaa32">
 ```
 
 ## # Bridge
