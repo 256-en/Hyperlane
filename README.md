@@ -1,5 +1,5 @@
 # Hyperlane Bridge
-Hyperlane, geçtiğimiz günlerde dev odaklı bir airdrop yapacağından bahsetti. User tarafı da uzun süredir şişmekteyken bu tarafta birkaç basit işlem yapalım.
+Selamlar, Hyperlane'nin user odaklı bir airdrop yapmayacağını düşünmekle birlikte halihazırda zaten user tarafı da uzun süredir şişmekteyken bu tarafta warp rotalarıyla birkaç işlem yapalım.
 
 VPS'e ihtiyacınız yok, Github Codespaces üzerinden ücretsiz yapabilirsiniz: https://github.com/codespaces 
 
