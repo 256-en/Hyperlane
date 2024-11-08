@@ -82,14 +82,16 @@ EOF
 
 yarn hyperlane warp deploy
 
-# Terminaldeki son çıktıyı -ağları içeren-  kopyalıyoruz.
+# Cüzdanda yeterli bakiye varsa 3 kere enterlıyoruz. Ardından kendisi birkaç tx gönderecek, bekliyoruz.
+# Görseldeki yeri  kopyalıyoruz.
+<img width="638" alt="Ekran Resmi 2024-11-08 14 59 40" src="https://github.com/user-attachments/assets/6b1ccd17-e4a6-438d-8149-cb11344b646c">
+
 ```
 
 ## # Bridge
 > Adresinizi relayer olarak tanımladınız. Köprü için bize biraz token lazım.
 > Base <> Zora arasında köprüleyebileceğiniz $BRETT tokenı var. Uniswap üzerinden alabilirsiniz.
 
-> https://hyperlane.superbridge.app/ adresine gidiyoruz. Normalde Zora Ağı gözükmeyecektir, aşağıdaki resimde "tokens:" ile başlayan kısmı sonuna kadar kopyalayın, superbridge sitesine gidin ve ayarları açın, "Customize" seçeneğine tıklayıp yapıştırın ve çıkın, Zora ağı eklendi. Brett tokeni seçip köprüleyin.
-<img width="1308" alt="Ekran Resmi 2024-11-08 14 46 57" src="https://github.com/user-attachments/assets/9b14cb72-1441-433e-9744-1341950ec802">
+> https://hyperlane.superbridge.app/ adresine gidiyoruz. Normalde Zora Ağı gözükmeyecektir, az önce kopyaladığınız kısmı; superbridge sitesinde ayarları açın, "Customize" seçeneğine tıklayıp yapıştırın ve çıkın, Zora ağı eklendi. Brett tokeni seçip köprüleyin.
 
 > Takıldığınız bir yer olursa: ▪️ X : https://x.com/256_tr ▪️ X : https://x.com/256__en
