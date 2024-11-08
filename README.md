@@ -83,8 +83,9 @@ EOF
 yarn hyperlane warp deploy
 
 # Cüzdanda yeterli bakiye varsa 3 kere enterlıyoruz. Ardından kendisi birkaç tx gönderecek, bekliyoruz.
-# Görseldeki yeri  kopyalıyoruz.
-<img width="598" alt="Ekran Resmi 2024-11-08 15 02 05" src="https://github.com/user-attachments/assets/4ceaad57-0c8c-4a8b-9367-6677527eaa32">
+# Görseldeki kısmı  kopyalıyoruz.
+<img width="569" alt="Ekran Resmi 2024-11-08 15 02 58" src="https://github.com/user-attachments/assets/058f4ceb-eacb-41fa-aeb8-6a274e4237e9">
+
 ```
 
 ## # Bridge
