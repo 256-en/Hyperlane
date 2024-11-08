@@ -11,6 +11,9 @@ Köprülemek için: $BRETT token. Uniswap üzerinden istediğiniz kadar alabilir
 ## # Updates
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
+# root'a geçelim
+sudo su
+
 apt install curl iptables build-essential jq git make gcc nano wget htop tmux pkg-config nvme-cli libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 ```
 
